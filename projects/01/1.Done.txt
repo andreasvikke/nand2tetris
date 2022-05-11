@@ -1,0 +1,16 @@
+D -- Nand
+D -- Not
+D -- And
+D -- Or
+D -- Xor
+D -- Mux
+D -- DMux
+D -- Not16
+D -- And16
+D -- Or16
+D -- Mux16
+D -- Or8Way
+D -- Mux4Way16
+D -- Mux8Way16
+D -- DMux4Way
+D -- DMux8Way
